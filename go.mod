@@ -1,3 +1,3 @@
-module github.com/Dzennieva/go-web-app
+module github.com/Dzennieva/go-app
 
 go 1.22.5

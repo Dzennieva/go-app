@@ -1,0 +1,10 @@
+replicaCount: 1
+
+image:
+  repository: dzennieva/go-app
+  # Overrides the image tag whose default is the chart appVersion.
+  tag: "v1"
+
+ingress:
+  host: ac22cf9d9da58459da3100cba8b99760-2e6c810a1d1500dd.elb.us-east-1.amazonaws.com
+      
